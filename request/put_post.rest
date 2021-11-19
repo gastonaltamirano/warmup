@@ -1,0 +1,8 @@
+PATCH http://localhost:3005/posts/21
+Content-Type: application/json
+
+{
+    "content": {
+        "content": "blablabla222"
+    }
+}

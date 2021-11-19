@@ -1,0 +1,10 @@
+POST http://localhost:3005/posts
+Content-Type: application/json
+
+{
+    "title": "post1",
+    "creationDate": "2021-11-18T21:41:47.307Z",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad",
+    "content": "blablabla3",
+    "category": 2
+}
